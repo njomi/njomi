@@ -1,7 +1,3 @@
-- 👋 Hi, I’m Nusrat
-- 👀 I’m interested in programming, data science, artificial intelligence, web applications etc.
-- 🌱 I’m currently learning progressive web app.
-- 💞️ I’m looking to collaborate on java, groovy , spring , js etc.
 
 
 <!---
